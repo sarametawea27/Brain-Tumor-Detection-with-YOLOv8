@@ -1,6 +1,6 @@
 # Brain Tumor Detection 🧠
 
-<img src="./imgs/val_batch.jpg" width="500"/>
+<img src="background.png" width="500"/>
 
 ## Brain Tumor Detection with Python and YoloV8 
 
