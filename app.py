@@ -1,7 +1,7 @@
+!pip install ultralytics
 import streamlit as st
 import numpy as np
 from PIL import Image
-pip install ultralytics
 from ultralytics import YOLO
 import cv2
 from matplotlib import pyplot as plt
