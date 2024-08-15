@@ -1,13 +1,8 @@
-ultralytics
-matplotlib==3.8.3
-streamlit-webrtc
-opencv-python==4.9.0.80
-pillow==10.2.0
+ultralytics==8.0.18
+matplotlib==3.7.1
+streamlit-webrtc==0.46.0
+opencv-python==4.7.0.72
+pillow==10.0.0
 pytube==15.0.0
-ffmpeg-python
-dill
-pip uninstall opencv-python
-pip install opencv-python
-pip install opencv-python-headless
-conda install -c conda-forge opencv
-pip install opencv-contrib-python
+ffmpeg-python==0.2.0
+dill==0.3.7
