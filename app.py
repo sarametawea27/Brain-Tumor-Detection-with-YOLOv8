@@ -1,6 +1,3 @@
-import cv2
-print(cv2.__version__)
-
 import streamlit as st
 import numpy as np
 from PIL import Image
@@ -8,6 +5,10 @@ from ultralytics.yolo import YOLO
 import cv2
 from matplotlib import pyplot as plt
 from utils import set_background
+
+
+# Print OpenCV version
+print("OpenCV version:", cv2.__version__)
 
 set_background("./imgs/background.png")
 
