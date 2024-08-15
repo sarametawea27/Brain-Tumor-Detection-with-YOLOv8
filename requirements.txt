@@ -6,3 +6,8 @@ pillow==10.2.0
 pytube==15.0.0
 ffmpeg-python
 dill
+pip uninstall opencv-python
+pip install opencv-python
+pip install opencv-python-headless
+conda install -c conda-forge opencv
+pip install opencv-contrib-python
